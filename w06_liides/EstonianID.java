@@ -7,8 +7,13 @@ public class EstonianID implements PersonalCodeBehaviour {
 
   @Override
   public String getGender() {
-    // kirjutada loogika
-    return null;
+    int gender = Integer.parseInt(code.substring(0, 1));
+
+    if (gender % 2 == 0){
+      return "Female";
+    } else {
+      return "Male";
+    }
   }
 
   @Override
