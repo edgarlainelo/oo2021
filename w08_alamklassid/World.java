@@ -12,6 +12,12 @@ public class World {
     this.height = height;
   }
 
+  public void getDefinitions(){
+    for (WorldObject wo : worldObjects){
+      System.out.println(wo.getDefinition());
+    }
+  }
+
   public void render(){
     char symbol;
 

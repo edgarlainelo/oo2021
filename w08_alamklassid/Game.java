@@ -11,5 +11,6 @@ public class Game {
     world.worldObjects.add(obs);
 
     world.render();
+    world.getDefinitions();
   }
 }
