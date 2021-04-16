@@ -29,6 +29,16 @@ public class Example {
       logger.severe(e.getMessage());
     }
 
+    int counter = 10;
+
+    try {
+      if (counter < 15){
+        throw new SecurityException("Counter should never be below 15");
+      }
+    } catch (Exception e){
+      System.out.println(e.getMessage());
+    }
+
     System.out.println("Game is over, here");
   }
 
