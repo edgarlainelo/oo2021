@@ -7,6 +7,9 @@
   <title>Hello</title>
 </head>
 <body>
-  <h1>Hello</h1>
+  <h1>Hello <span th:text="${who}"></span></h1>
+  <div th:if="${condition}"> <!-- unless -->
+    <h2>Hello again</h2>
+  </div>
 </body>
 </html>
