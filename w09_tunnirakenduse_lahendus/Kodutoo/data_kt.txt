@@ -1,0 +1,10 @@
+Edgar,1,male
+Liisa,2,female
+Marko,3,male
+Lida,4,female
+Lauri,5,male
+Dima,6,male
+Daniil,7,male
+Martin,8,male
+Karolina,9,female
+Olga,10,female

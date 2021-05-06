@@ -1,0 +1,6 @@
+Helena,21,Female
+Kristjan,17,Male
+Mari,20,Female
+Artjom,22,Male
+David,18,Male
+Olga,15,Female

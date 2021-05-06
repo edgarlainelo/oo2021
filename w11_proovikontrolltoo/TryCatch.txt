@@ -1,0 +1,12 @@
+Apr 30, 2021 1:36:28 PM KodutooTunnitoo main
+INFO: 0
+Apr 30, 2021 1:36:28 PM KodutooTunnitoo main
+INFO: 6
+Apr 30, 2021 1:36:28 PM KodutooTunnitoo main
+WARNING: Error in division:/ by zero
+Apr 30, 2021 1:36:28 PM KodutooTunnitoo main
+INFO: 1
+Apr 30, 2021 1:36:28 PM KodutooTunnitoo main
+INFO: 3
+Apr 30, 2021 1:36:28 PM KodutooTunnitoo main
+WARNING: String index out of range: 10

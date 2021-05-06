@@ -1,0 +1,4 @@
+Apr 20, 2021 11:10:20 AM Example main
+WARNING: / by zero
+Apr 20, 2021 11:10:20 AM Example main
+SEVERE: Index 3 out of bounds for length 3

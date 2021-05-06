@@ -1,0 +1,4 @@
+Name: Helena Age: 21 Gender: Female
+Name: Mari Age: 20 Gender: Female
+Name: Artjom Age: 22 Gender: Male
+Name: David Age: 18 Gender: Male

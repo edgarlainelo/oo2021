@@ -1,0 +1,5 @@
+Name: Liisa num: 2 gender: female
+Name: Lida num: 4 gender: female
+Name: Dima num: 6 gender: male
+Name: Martin num: 8 gender: male
+Name: Olga num: 10 gender: female
