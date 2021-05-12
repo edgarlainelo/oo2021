@@ -1,7 +1,8 @@
-public class Main{
+public class MainOverride
+{
     public static void main(String args[]){
-        Loom loom = new Loom();
-        Kala kala = new Kala();
+        LoomOverride loom = new LoomOverride();
+        KalaOverride kala = new KalaOverride();
 
         loom.liikuma();
         kala.liikuma();

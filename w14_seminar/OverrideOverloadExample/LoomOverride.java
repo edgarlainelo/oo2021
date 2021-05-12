@@ -1,4 +1,4 @@
-public class Loom {
+public class LoomOverride {
     
     public void liikuma(){
         System.out.println("Loomad võivad liikuda");

@@ -1,4 +1,4 @@
-public class Kala extends Loom {
+public class KalaOverride extends LoomOverride {
 
     @Override
     public void liikuma(){

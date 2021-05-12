@@ -16,13 +16,14 @@ public class Pendel implements Runnable{
         System.out.println("Võnkeperiood on umbes: " + vonk + " sekundit");
         
         for(int i = 0; i<100; i++){
-            System.out.println("Thread 1: " + i);
-            System.out.println("Hammas tegi " + poored + " täis pööret");
 
-            if(i / hammad == 0){ //Praegu see ei tööta
+            if(i % hammad == 0 && i != 0){ //Praegu see ei tööta
                 poored += 1;      
             }
-            
+
+            System.out.println("Võngud: " + i);
+            System.out.println("Hammas tegi " + poored + " täis pööret");
+
 
             try{
                 
